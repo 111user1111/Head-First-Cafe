@@ -1,0 +1,13 @@
+body { font-family: sans-serif; /* это правило для всех абзацев */ }
+
+h1 , h2 { color: gray; } 
+
+h1 { border-bottom: 1px solid black; }
+
+.Coca-Cola { color: rgb(213, 0, 0); }
+
+.greentea { color: green; }
+
+.Klukva { color: rgb(254, 63, 203); }
+
+.goback { color: black; }
